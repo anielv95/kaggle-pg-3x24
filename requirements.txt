@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+
+pytest
+click
+pylint
+pytest-cov
+black
+ipykernel
